@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MadRace/Core/Entities/Stars.py&apos; to &apos;Space.py&apos;" description="Rename resource &apos;Stars.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Entities/Stars.py" name="Space.py" stamp="1388773761671" updateReferences="true"/>
+</session>

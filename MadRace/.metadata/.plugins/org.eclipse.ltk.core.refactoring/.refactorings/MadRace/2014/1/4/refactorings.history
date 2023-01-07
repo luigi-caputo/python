@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MadRace/Core/Entities/Planets&apos; to &apos;SpaceObject&apos;" description="Rename resource &apos;Planets&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Entities/Planets" name="SpaceObject" stamp="1390246076473" updateReferences="true"/>
+</session>

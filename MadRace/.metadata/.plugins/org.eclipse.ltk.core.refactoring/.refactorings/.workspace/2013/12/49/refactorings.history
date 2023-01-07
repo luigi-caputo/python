@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;MadRace/Core/Face.py&apos;" deleteContents="false" description="Delete resource &apos;MadRace/Core/Face.py&apos;" element1="/MadRace/Core/Face.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1386432422232"/>&#x0A;<refactoring comment="Delete resource &apos;MadRace/Core/Model.py&apos;" deleteContents="false" description="Delete resource &apos;MadRace/Core/Model.py&apos;" element1="/MadRace/Core/Model.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1386432427302"/>
+</session>

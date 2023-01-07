@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MadRace/Core/Vehicle.py&apos; to &apos;Entity.py&apos;" description="Rename resource &apos;Vehicle.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Vehicle.py" name="Entity.py" stamp="1385728218591" updateReferences="true"/>
+</session>

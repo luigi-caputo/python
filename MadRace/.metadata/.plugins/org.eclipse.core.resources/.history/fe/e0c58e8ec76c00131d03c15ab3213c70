@@ -1,0 +1,28 @@
+'''
+Created on 29/nov/2013
+
+@author: GicoPiro
+'''
+from objLoader import Loader
+entities = []
+class entity(object):
+    def __init__(self, name, obj="models/"):
+        self.model = Loader.open(obj, name)
+        entities.append(self)
+    def draw(self):
+        for mesh in self.model:
+            mesh.draw()
+    def update(self, delta):
+        pass
+    def unload(self):
+        global entities
+        for mesh in self.model:
+            mesh.destroy()
+        entities.remove(self)
+    @classmethod
+    def unloadall(cls):
+        global entities
+        for entity in entities:
+            for mesh in entity.model:
+                mesh.destroy()
+        entities = []
